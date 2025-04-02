@@ -91,15 +91,6 @@ The project generates several visualizations:
 - Comparison between PINN and analytical solutions
 - Solutions for different damping ratios
 
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ways you can help:
-
-1. Report bugs and issues
-2. Suggest new features
-3. Improve documentation
-4. Add more examples
-5. Implement extensions (see below)
 
 ## 🔮 Future Extensions
 
@@ -121,8 +112,3 @@ Some interesting directions for extending this project:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
-- Thanks to the PyTorch team for the amazing deep learning framework
-- The physics-informed neural networks community for inspiration
-- Contributors and users of this project 
